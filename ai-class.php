@@ -17,5 +17,6 @@ function check_connection()
     }    
 }
 
+//New Comment
 check_connection();
 
