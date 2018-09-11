@@ -17,6 +17,6 @@ function check_connection()
     }    
 }
 
-//New Comment
+//Check Connection Function Called
 check_connection();
 
